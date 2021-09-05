@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/osmannbozkurt/react-native-custom-scrollable-tab-view#readme",
   "dependencies": { 
+    "react-native-pager-view": "^6.0.0-rc.0",
     "create-react-class": "^15.6.2",
     "prop-types": "^15.6.0",
     "react-timer-mixin": "^0.13.3"
